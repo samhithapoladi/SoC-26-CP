@@ -1,4 +1,4 @@
-# Week 2 – Greedy & Dynamic Programming
+# Week 2 & 3 – Greedy & Dynamic Programming
 
 ## 📖 Reading
 
@@ -34,6 +34,28 @@ Solve in order — they're roughly increasing in concept complexity.
 - [Increasing Subsequence](https://cses.fi/problemset/task/1145)
 - [Projects](https://cses.fi/problemset/task/1140)
 
+
+### Codeforces
+- [Ilya and Queries](https://codeforces.com/problemset/problem/313/B)
+- [Sponsor of Your Problems](https://codeforces.com/problemset/problem/2121/E)
+- [Gellyfish and Flaming Peony](https://codeforces.com/problemset/problem/2115/A)
+- [Small Operations](https://codeforces.com/problemset/problem/2114/F)
+- [Infinite Sequence (Easy Version)](https://codeforces.com/problemset/problem/2071/D1)
+- [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C)
+- [Test of Love](https://codeforces.com/problemset/problem/1992/D)
+- [Magnitude (Easy)](https://codeforces.com/problemset/problem/1984/C1)
+- [Valuable Cards](https://codeforces.com/problemset/problem/1992/F)
+ 
+## 🔺 Advanced Track
+ 
+### Regret Greedy
+- [1244E – Minimizing Difference](https://codeforces.com/problemset/problem/1244/E)
+- [1987D – World is Mine](https://codeforces.com/problemset/problem/1987/D)
+- [1989D – Smithing Skill](https://codeforces.com/problemset/problem/1989/D)
+### DP + Combinatorics
+- [1475G – Strange Beauty](https://codeforces.com/problemset/problem/1475/G)
+- [1985G – D-Function](https://codeforces.com/problemset/problem/1985/G)
+- [Y – Grid 2](https://atcoder.jp/contests/dp/tasks/dp_y)
 
 
 ## Resources
